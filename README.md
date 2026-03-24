@@ -34,7 +34,7 @@ Flutter • React Native • .NET
 ---
 
 ## 🌐 Connect with Me
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/rasmiya a." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rasmiya a." height="30" width="40" /></a>
 <a href="https://medium.com/@rasmiya a." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rasmiya a." height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@arasmiya77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@arasmiya77" height="30" width="40" /></a>
