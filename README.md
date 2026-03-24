@@ -40,7 +40,7 @@ Flutter • React Native • .NET
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
-<a href="https://medium.com/@rasmiya-a" target="_blank">
+<a href="https://medium.com/@arasmiya77" target="_blank">
 <img src="https://skillicons.dev/icons?i=medium" height="40"/>
 </a>
 
