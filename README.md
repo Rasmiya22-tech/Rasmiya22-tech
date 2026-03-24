@@ -45,7 +45,7 @@ Flutter • React Native • .NET
 </a>
 
 <a href="https://www.hackerrank.com/arasmiya77" target="_blank">
-<img src="https://skillicons.dev/icons?i=hackerrank" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackerrank.svg" height="40"/>
 </a>
 
 <a href="https://leetcode.com/arasmiya77" target="_blank">
