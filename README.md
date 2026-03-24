@@ -35,13 +35,28 @@ Flutter • React Native • .NET
 
 ## 🌐 Connect with Me
 <p align="center">
-<a href="https://linkedin.com/in/rasmiya a." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rasmiya a." height="30" width="40" /></a>
-<a href="https://medium.com/@rasmiya a." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rasmiya a." height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@arasmiya77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@arasmiya77" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/arasmiya77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arasmiya77" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/akmirkan rasmiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="akmirkan rasmiya" height="30" width="40" /></a>
-</p>
 
+<a href="https://linkedin.com/in/rasmiya-a" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="https://medium.com/@rasmiya-a" target="_blank">
+<img src="https://skillicons.dev/icons?i=medium" height="40"/>
+</a>
+
+<a href="https://www.hackerrank.com/arasmiya77" target="_blank">
+<img src="https://skillicons.dev/icons?i=hackerrank" height="40"/>
+</a>
+
+<a href="https://leetcode.com/arasmiya77" target="_blank">
+<img src="https://skillicons.dev/icons?i=leetcode" height="40"/>
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/akmirkan_rasmiya" target="_blank">
+<img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" height="40"/>
+</a>
+
+</p>
 ---
 
 ## 🛠️ Languages and Tools
