@@ -36,7 +36,7 @@ Flutter • React Native • .NET
 ## 🌐 Connect with Me
 <p align="center">
 
-<a href="https://linkedin.com/in/rasmiya-a" target="_blank">
+<a href="https://www.linkedin.com/in/rasmiya-a-7990a8276" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
