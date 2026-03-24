@@ -52,8 +52,8 @@ Flutter • React Native • .NET
 <img src="https://skillicons.dev/icons?i=leetcode" height="40"/>
 </a>
 
-<a href="https://auth.geeksforgeeks.org/user/akmirkan_rasmiya" target="_blank">
-<img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" height="40"/>
+<a href="https://www.geeksforgeeks.org/user/arasmihev6/" target="_blank">
+  <img src="https://img.icons8.com/color/48/geeksforgeeks.png" height="40" alt="GeeksforGeeks"/>
 </a>
 
 </p>
