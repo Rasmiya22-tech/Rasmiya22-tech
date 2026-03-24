@@ -19,21 +19,21 @@
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 <p align="center">
 Flutter • React Native • .NET
 </p>
 
 ---
 
-## 📫 Contact Me
+##  Contact Me
 <p align="center">
 📧 arasmiya77@gmail.com
 </p>
 
 ---
 
-## 🌐 Connect with Me
+##  Connect with Me
 <p align="center">
 <a href="https://linkedin.com/in/rasmiya a." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rasmiya a." height="30" width="40" /></a>
 <a href="https://medium.com/@rasmiya a." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rasmiya a." height="30" width="40" /></a>
