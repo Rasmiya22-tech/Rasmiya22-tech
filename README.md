@@ -9,7 +9,7 @@
     Welcome to my GitHub! I’m passionate about building web and mobile applications, exploring new technologies, and growing in AI and cybersecurity. 😎
   </p>
 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350"/>
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=rasmiya22-tech&label=Profile%20views&color=0e75b6&style=flat" />
