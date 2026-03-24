@@ -53,7 +53,7 @@ Flutter • React Native • .NET
 </a>
 
 <a href="https://www.geeksforgeeks.org/user/arasmihev6/" target="_blank">
-  <img src="https://img.icons8.com/color/48/geeksforgeeks.png" height="40" alt="GeeksforGeeks"/>
+  <img src="https://img.icons8.com/color/48/geeksforgeeks.png" height="40" alt="GeeksforGeeks"/> 
 </a>
 
 </p>
