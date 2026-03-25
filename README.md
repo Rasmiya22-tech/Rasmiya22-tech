@@ -36,21 +36,23 @@ Flutter • React Native • .NET
 ## 🌐 Connect with Me
 <p align="center">
 
-<a href="https://www.linkedin.com/in/rasmiya-a-7990a8276" target="_blank">
+<a href="https://www.linkedin.com/in/rasmiya-a-7990a8276" target="_blank" style="text-decoration: none;">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
-<a href="https://medium.com/@arasmiya77" target="_blank">
+<a href="https://medium.com/@arasmiya77" target="_blank" style="text-decoration: none;">
  <img src="https://cdn.simpleicons.org/medium" height="40" alt="Medium"/>
 </a>
 
-<a href="https://www.hackerrank.com/arasmiya77" target="_blank">
+<a href="https://www.hackerrank.com/arasmiya77" target="_blank" style="text-decoration: none;">
 <img src="https://cdn.simpleicons.org/hackerrank/2EC866" height="40" alt="HackerRank"/>
 </a>
-<a href="https://leetcode.com/u/56BZY8zHmM/" target="_blank">
+
+<a href="https://leetcode.com/u/56BZY8zHmM/" target="_blank" style="text-decoration: none;">
   <img src="https://cdn.simpleicons.org/leetcode" height="40" alt="LeetCode"/>
 </a>
-<a href="https://www.geeksforgeeks.org/user/arasmihev6/" target="_blank">
+
+<a href="https://www.geeksforgeeks.org/user/arasmihev6/" target="_blank" style="text-decoration: none;">
   <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" height="40" alt="GeeksforGeeks"/>
 </a>
 
