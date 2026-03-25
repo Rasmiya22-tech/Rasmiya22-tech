@@ -41,7 +41,7 @@ Flutter • React Native • .NET
 </a>
 
 <a href="https://medium.com/@arasmiya77" target="_blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/medium.svg" height="40" style="filter: invert(1);"/>
+ <img src="https://cdn.simpleicons.org/medium" height="40" alt="Medium"/>
 </a>
 
 <a href="https://www.hackerrank.com/arasmiya77" target="_blank">
