@@ -48,7 +48,7 @@ Flutter • React Native • .NET
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackerrank.svg" height="40"/>
 </a>
 
-<a href="https://leetcode.com/u/arasmiya77/" target="_blank">
+<a href="https://leetcode.com/u/56BZY8zHmM/" target="_blank">
   <img src="https://cdn.simpleicons.org/leetcode" height="40" alt="LeetCode"/>
 </a>
 <a href="https://www.geeksforgeeks.org/user/arasmihev6/" target="_blank">
