@@ -74,13 +74,8 @@ My interests include <strong>full-stack development</strong>, <strong>AI/ML</str
 I love exploring new technologies, improving my skills, and contributing to innovative solutions.  
 </p>
 
----
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rasmiya22-tech&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rasmiya22-tech&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+
 
 ---
 
