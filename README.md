@@ -21,7 +21,7 @@
 
 ##  🌱 Currently Learning
 <p align="center">
-Flutter • React Native • .NET
+Flutter • React Native • .NET, AI/ML,CyberSecurity
 </p>
 
 ---
