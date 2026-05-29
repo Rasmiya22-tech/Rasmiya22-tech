@@ -21,7 +21,7 @@
 
 ##  🌱 Currently Learning
 <p align="center">
-Flutter, React Native, .NET, AI/ML, CyberSecurity,Python,Mern
+Flutter, React Native, .NET, AI/ML, CyberSecurity,Python,Mern,Redux,Redux-toolkit
 </p>
 
 ---
